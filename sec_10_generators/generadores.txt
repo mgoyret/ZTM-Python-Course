@@ -1,0 +1,5 @@
+Los generadores generan valores de a uno. Por ejemplo, range(n),
+no es que genera un bloque de 'n' valores que viven en memoria juntos,
+si no que nos da el primer valor, luego algo le da un 'next', y se olvida de ese
+y genera el siguiente valor. Siempre tiene solo 1 valor en memoria
+Una funcion es generadora si se usa la palabra 'yield'

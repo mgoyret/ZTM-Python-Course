@@ -1,0 +1,7 @@
+Para webdevelopment, hay dos frameworks rincipales en python.
+
+- Flask: https://flask.palletsprojects.com/en/1.1.x/
+chica, facil de usar
+
+- Django: https://www.djangoproject.com/
+gran framework, para proyectos muy grandes

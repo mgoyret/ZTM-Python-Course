@@ -1,0 +1,7 @@
+Los errores tienen tipi. Si vemos la consola, nos dice 'ValueError',
+'DivisionByCero Erros', etc.
+Al codear, podemos poner un bloque en try:, con un [exept:] que se ejecuta
+si hay algun tipo de error. Si no especificamos, salta con cualquier error, pero
+podemos poner except: ValueError, entonces solo salta ahi si hay ese error
+Se retorna un valor True si no hay errores, y si no False.
+Ver ejemplo

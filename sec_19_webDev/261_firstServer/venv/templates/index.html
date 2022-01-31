@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>My website</title>
+  <link rel="stylesheet" type="text/css" href="static/style.css">
+  {#<!--
+    con {{}}, un html normal escribiria eso literal, pero Flask lo reconoce
+    y al ver eso, ejecuta lo que esta dentro como codigo python. A esto se lo llama
+    jinja, y Flask lo trae integrado. Sirve para tener archivos dinamicos en lugar de html
+    con texto fijo
+    El url_for() es una funcion de python. Es mejor usar eso a que harcodear el path
+  -->#}
+  <link rel="shortcut icon" href="{{ url_for('static', filename='favicon.ico') }}">
+</head>
+<body>
+    This is the body of my .html file
+    Hola {{name}} !!!
+    <script src="static/script.js"></script>
+</body>
+</html>

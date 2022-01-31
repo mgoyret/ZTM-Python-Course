@@ -1,0 +1,16 @@
+twitter api keys
+
+API Key:
+OD514u2jUtJCiaoVuv33vqEUl
+
+API Key Secret:
+Li6WHJVH9uwGfd5rQuqpYhly62EX0wbsV8R8T7HQKAtmTbXajd
+
+Bearer token:
+AAAAAAAAAAAAAAAAAAAAACOGYQEAAAAAevbK6engjUnupMR9VsoIHCaVNtw%3DqMmNwXQOLduMJIoTYQcLqNksgFjlIzGNmAYdhY9tkBic5BKMWo
+
+Acces token:
+211666326-lLnuKWjJaddcXY1IQNOaekKzcWaawGceKJZF5na6
+
+Acces token secret:
+mBdTp3LJ47BzXG4E2Ol4KUcyiABMQ2slV7ZYImYLY9Ub3

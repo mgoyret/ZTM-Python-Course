@@ -1,0 +1,2 @@
+HOC, higher order function, es una funcion que acepta como parametro, o que crea dentro de ella, a otra funcion.
+Por ejemplo map(), o filter()
