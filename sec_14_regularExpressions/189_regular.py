@@ -1,6 +1,10 @@
 '''
 VER:
 https://www.w3schools.com/python/python_regex.asp
+https://regex101.com/
+
+lockbehind ahead
+https://www.regular-expressions.info/lookaround.html
 '''
 
 import re
