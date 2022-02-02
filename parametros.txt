@@ -1,0 +1,2 @@
+Funciones:
+Func(parametros, *args, default param, **kwargs)

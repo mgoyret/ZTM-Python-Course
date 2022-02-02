@@ -1,0 +1,9 @@
+https://packaging.python.org/en/latest/guides/installing-using-pip-and-virtual-environments/#creating-a-virtual-environment
+
+WINDOWS:
+py -m venv env
+./env/Scripts/activate
+
+UBUNTU:
+python3 -m venv env
+source env/bin/activate

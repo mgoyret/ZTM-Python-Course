@@ -1,4 +1,3 @@
-import csv
 from flask import Flask, render_template, url_for, request, redirect
 from csv import DictWriter
 from os.path import getsize
